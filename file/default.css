@@ -71,7 +71,9 @@ a {
   cursor: pointer;
 }
 .say {
+  display: block;
   margin-left: 5px;
+  margin-bottom: 0.8em;
 }
 .space {
   margin-right: 150px;
